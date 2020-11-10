@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="82" started-at="2020-10-14T11:18:16 CDT" finished-at="2020-10-14T11:18:17 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="82" started-at="2020-10-14T11:18:16 CDT" finished-at="2020-10-14T11:18:17 CDT">
+      <class name="qaclickacademy.Mavenjava.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qaclickacademy.Mavenjava.RESTAPITest@4973813a]" name="deleteTwitter" duration-ms="9" started-at="2020-10-14T11:18:17 CDT" finished-at="2020-10-14T11:18:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qaclickacademy.Mavenjava.RESTAPITest@4973813a]" name="postJira" duration-ms="1" started-at="2020-10-14T11:18:17 CDT" finished-at="2020-10-14T11:18:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacademy.Mavenjava.RESTAPITest -->
+      <class name="qaclickacademy.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="Browserautomation()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumTest@6321e813]" name="Browserautomation" duration-ms="1" started-at="2020-10-14T11:18:17 CDT" finished-at="2020-10-14T11:18:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserautomation -->
+        <test-method status="PASS" signature="Elementlogin()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumTest@6321e813]" name="Elementlogin" duration-ms="1" started-at="2020-10-14T11:18:17 CDT" finished-at="2020-10-14T11:18:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Elementlogin -->
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumTest@6321e813]" name="elementUI" duration-ms="1" started-at="2020-10-14T11:18:17 CDT" finished-at="2020-10-14T11:18:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- qaclickacademy.Mavenjava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
