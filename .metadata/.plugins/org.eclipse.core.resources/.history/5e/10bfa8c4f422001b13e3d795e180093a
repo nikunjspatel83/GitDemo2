@@ -19,10 +19,10 @@ public class RESTAPITest {
 	@Test
 	public void postvalidation()
 	{
-
+<<<<<<< HEAD
 		System.out.println("deleteTwitter");
+=======
 		System.out.println("postvalidation.");
-		System.out.println("Validated successfully.");
-
+>>>>>>> d958cd9c49e823928ebfcc555a37c2e03f14fc7b
 	}
 }
