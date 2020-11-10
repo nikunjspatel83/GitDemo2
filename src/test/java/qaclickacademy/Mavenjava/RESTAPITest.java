@@ -15,4 +15,10 @@ public class RESTAPITest {
 	{
 		System.out.println("deleteTwitter");
 	}
+	
+	@Test
+	public void postvalidation()
+	{
+		System.out.println("deleteTwitter");
+	}
 }
