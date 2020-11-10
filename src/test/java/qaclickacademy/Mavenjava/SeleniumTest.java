@@ -22,6 +22,13 @@ public class SeleniumTest {
 	{
 		System.out.println("Elementlogin");
 	}
+	
+	@Test
+	public void postvalidation()
+	{
+		System.out.println("postvalidation");
+	}
+
 }
 
 
